@@ -1,0 +1,28 @@
+Martina Mihova
+$ git log
+commit 1ca80549d2b54df3eea6efaa665a5ed0626a7674 (HEAD -> master, origin/master)
+Author: Martina <you@example.com>
+Date:   Thu Apr 6 02:57:28 2023 +0200
+
+    Final commit
+
+commit 396023119fe44e4bcad2c15263b58ea289151969 (origin/bug3, bug3)
+Author: Martina <you@example.com>
+Date:   Thu Apr 6 01:56:35 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit c7a36573f04e129d2663c53e0937dd11191a83f4
+Merge: ebf3d8b 40bbd72
+Author: Martina <you@example.com>
+Date:   Thu Apr 6 02:03:24 2023 +0200
+
+    qa!
+
+commit 40bbd72e1c624858a7aa08e65fdc9929e54aff60 (origin/bug2, bug2)
+Author: Martina <you@example.com>
+Date:   Thu Apr 6 01:53:24 2023 +0200
+
+:
+Smeneta mi e sodrzinata na logs.txt i 213181.txt.Tuka se naogaat od $git log
+naredbata,a vo logs.txt mi se logovite so koi ja izrabotuvav vezbata.
